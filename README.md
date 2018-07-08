@@ -239,7 +239,7 @@
     }
 }
 ```
-
+![完整](https://upload-images.jianshu.io/upload_images/2342189-c1a0211ffc84c188.gif?imageMogr2/auto-orient/strip)
 
 [Dome 地址](https://github.com/qingweiiOS/SweepYard.git)
 
